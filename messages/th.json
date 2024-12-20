@@ -1,5 +1,9 @@
 {
-    "HomePage": {
-      "title": "สวัสดีโลก"
-    }
+  "HomePage": {
+    "title": "สวัสดีทุกท่าน!"
+  },
+  "LocaleSwitcher": {
+    "label": "เปลี่ยนภาษา",
+    "locale": "{locale, select, th {th Thailnad} en {🇺🇸 English} other {Unknown}}"
   }
+}
