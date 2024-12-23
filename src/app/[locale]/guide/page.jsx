@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
+import Header_top from "@/components/Header_top";
 import ImageSlider from "@/components/image_slider/image-slider.jsx";
 
 export default function IndexPage({ locale }) {
@@ -8,12 +9,7 @@ export default function IndexPage({ locale }) {
 
   return (
     <div>
-      <div>
-        <ImageSlider />
-      </div>
-      <div>
-        <h1>{t("title")}</h1>
-      </div>
+      
     </div>
   );
 }

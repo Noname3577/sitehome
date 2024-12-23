@@ -1,0 +1,9 @@
+{
+  "menuItems": [
+    { "label": "หน้าแรก", "href": "/" },
+    { "label": "คอร์สเรียน", "href": "/courses" },
+    { "label": "คู่มือ", "href": "/guide" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "เกี่ยวกับ", "href": "/about" }
+  ]
+}

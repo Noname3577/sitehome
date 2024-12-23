@@ -1,0 +1,19 @@
+{
+  "slides_data": [
+    {
+      "image": "https://placehold.co/600x1200",
+      "title": "ยินดีต้อนรับสู่เว็บไซต์ของเรา",
+      "description": "ค้นหาสินค้าที่คุณต้องการ"
+    },
+    {
+      "image": "https://placehold.co/600x1200",
+      "title": "คุณภาพที่พูดให้เห็น",
+      "description": "สัมผัสความแตกต่าง"
+    },
+    {
+      "image": "https://placehold.co/600x1200",
+      "title": "สินค้าที่คุณคู่ควร",
+      "description": "เพื่อความสุขของคุณ"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Course 1",
+      "description": "Description 1",
+      "price": 100,
+      "image": "image1.jpg",
+      "status": 1,
+      "created_at": "2021-01-01 00:00:00",
+      "updated_at": "2021-01-01 00:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Course 2",
+      "description": "Description 2",
+      "price": 200,
+      "image": "image2.jpg",
+      "status": 10,
+      "created_at": "2021-01-01 00:00:00",
+      "updated_at": "2021-01-01 00:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Course 3",
+      "description": "Description 3",
+      "price": 300,
+      "image": "image3.jpg",
+      "status": 5,
+      "created_at": "2021-01-01 00:00:00",
+      "updated_at": "2021-01-01 00:00:00"
+    }
+  ]
+}
